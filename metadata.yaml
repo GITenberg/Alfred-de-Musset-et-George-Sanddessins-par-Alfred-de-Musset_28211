@@ -1,0 +1,41 @@
+_repo: Alfred-de-Musset-et-George-Sanddessins-par-Alfred-de-Musset_28211
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Musset, Alfred de
+    aliases:
+    - DeMusset, Alfred
+    - De Musset, Alfred
+    - Musset, Louis Charles Alfred de
+    birthdate: 1810
+    deathdate: &id001 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clouard, Maurice
+    birthdate: *id001
+    gutenberg_agent_id: '33206'
+    url: http://www.gutenberg.org/2009/agents/33206
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28211'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sand, George, 1804-1876'
+- !lcc 'PQ'
+- !lcsh 'Musset, Alfred de, 1810-1857'
+title: 'Alfred de Musset et George Sand
+
+  dessins par Alfred de Musset'
+url: http://www.gutenberg.org/ebooks/28211
