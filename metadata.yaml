@@ -8,7 +8,7 @@ contributor:
     - De Musset, Alfred
     - Musset, Louis Charles Alfred de
     birthdate: 1810
-    deathdate: &id001 1857
+    deathdate: 1857
     gutenberg_agent_id: '1341'
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
@@ -18,10 +18,12 @@ covers:
 creator:
   author:
     agent_name: Clouard, Maurice
-    birthdate: *id001
+    birthdate: 1857
     gutenberg_agent_id: '33206'
     url: http://www.gutenberg.org/2009/agents/33206
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28211#Alfred-de-Musset-et-George-Sanddessins-par-Alfred-de-Musset
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2009-02-27'
 gutenberg_type: Text
